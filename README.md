@@ -9,10 +9,6 @@
 ```
 nmap -v -p 22 <IP>
 ```
-```
-nmap -v -p 22 <IP>
-```
-
 PORT STATE SERVICE           
 22/tcp open ssh
 
